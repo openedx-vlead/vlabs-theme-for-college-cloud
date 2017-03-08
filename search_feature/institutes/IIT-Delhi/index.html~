@@ -22,7 +22,7 @@
 
     <!-- Custom CSS -->
     <link href="css/style.css" rel="stylesheet">
-	
+	<script type="text/javascript" src="js/tabs.js"></script>
 </head>
 <body id="page-top" class="index">
 <div id="top">
@@ -46,15 +46,14 @@
 			               
 			                <ul class="nav navbar-nav navbar-right menu-ul search-ul" style="position: relative; top: -5px;">
 			                	<li>
-			                		<form method="post">
-			                        <!--	<input type="text" class="search-textbox" placeholder="SEARCH FOR A LAB"/>
+			                	<form method="get" action="search-result.html">
+			                        <!--	<input type="text" class="search-textbox" placeholder="SEARCH FOR A LAB" name="q" id="q"/>
 			                        	<input type="submit" value="" class="search-button" />-->
 			                        </form>
 			                	</li>
 			                </ul>
 			                
-			               
-<ul class="nav navbar-nav navbar-right menu-ul">
+			                <ul class="nav navbar-nav navbar-right menu-ul">
 			                    <li class="page-scroll menu-li ">
 			                        <a href="https://vlabs.ac.in" class="menu-a">HOME</a>
 			                    </li>
@@ -78,7 +77,6 @@
 			                    </li>
 			                    
 			                </ul>
-
 			                
 			               
 			                	
@@ -99,9 +97,9 @@
 			
 			<!-- =================================================================================================================================== -->
 			<div class="container-fluid" style="margin-left: 35px; margin-right: 35px;">
-				<h2 class="text-h2-lightblue" style=" margin-bottom: 20px; margin-top: 30px; ">Partner Institutions</h2>
+				<h2 class="text-h2-lightblue" style=" margin-bottom: 20px; margin-top: 10px; ">Partner Institutions</h2>
 					
-					<div class="row">
+				<div class="row">
 						<div class="col-md-2 sidebar-col-2">
 						  <a href="http://vlabs.ac.in:5959/search_feature/institutes/IIT-Delhi/" class="sidebar-a"><img src="images/IIT_Delhi.png">
 									<div class="text-h3-darkblue" style="margin-top: 2px;">IIT Delhi</div> </a>
@@ -128,22 +126,21 @@
 <div class="contactus">
 <span class="text-normal-gray-smallest"> Contact</span>
 
-<p class="contectus-gray-smallest">K. V. Gangadharan
+<p class="contectus-gray-smallest">Ranjan Bose
 Professor
-Department of Mechanical Engineering
-NIT KARNATAKA
-575025
-Ph: +918242474000 Ext:3657
-Email: kvganga@nitk.ac.in
+Department of Electrical Engineering
+IIT DELHI
+110016
+Ph: +911126591048
+Email: rbose@ee.iitd.ac.in
 </p>
 
-</div>
-							
+</div>							
 						</div>
-						
+
 						<div class="col-md-10 lab-list-col-10">
 							<!-- <img src="images/engineering/icon_1.png" /> --> 
-							<span class="text-normal-gray-big">NITK Surathkal </span>
+							<span class="text-normal-gray-big"> IIT DELHI </span>
 							<br>
 							<p class="text-normal-gray-smallest">
 							  </p><ol>
@@ -153,7 +150,7 @@ Email: kvganga@nitk.ac.in
                                                             
 									<li class="text-normal-gray-smallest" style="text-align: justify;">In
  order to derive maximum learning experience, the users are advised to 
-first read the instructions for conduction the labs. There are' 
+first read the instructions for conducting the labs. There are' 
 step-by-step' instructions available in each lab to assist the users.</li>
 									<li class="text-normal-gray-smallest" style="text-align: justify;">Some of the labs require the users to log in first. Eventually, there will be a common login for labs.</li>
 									<li class="text-normal-gray-smallest" style="text-align: justify;">Related NPTEL lectures are also available on the link given below.</li>
@@ -164,76 +161,48 @@ step-by-step' instructions available in each lab to assist the users.</li>
 
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CHEM05+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Unit Operation, Reaction Engg. & Process Control</a></p>
-									<p class="text-normal-gray-smallest"> This lab defines how the chemical reactions are prepared and the various flow through pipes, fittings, orifice meter, Venturi meter are working.</p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Delhi+CIVIL16+Anytime/about" class="sidebar-a">
+<span style="font-size: 30px; color:red;">*</span>Virtual Smart Structures and Dynamics Laboratory</a></p>
+									<p class="text-normal-gray-smallest"> This lab defines a structural system having built-in or intrinsic sensors, actuators and control mechanism whereby it is capable of sensing a stimulus, responding to it in a predetermined manner and extent, in a short time</p	>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CHEM05+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/courses/103103029/pdf/mod1.pdf" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Strength of Materials </a></p>
-									<p class="text-normal-gray-smallest">  Strength of material is the body of knowledge which deals with the relation between internal forces, deformations and external loads etc. This laboratory provides the basic knowledge of strength of materials and here, the students can perform different tests on different materials.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+CIVIL07+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Delhi+CIVIL16+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 							<!--	<div class="col-md-2 lab-list-row-col-2">
 									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
 								</div>-->
 							</div>
-<div style="margin-top: 20px; " class="lab-list-row-div">
+ <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+EEE08+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Industrial Electric Drives </a></p>
-									<p class="text-normal-gray-smallest"> This lab introduces us with Programmable Logic Controllers and Digital I/O interface to PLCs as well as introduces us with Ladder Logic.</p>
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Delhi+ECE08+Anytime/about" class="sidebar-a"><p class="text-h3-darkblue">
+<span style="font-size: 30px; color:red;">*</span>Engineering Electromagnetic Lab</a></p>
+									<p class="text-normal-gray-smallest"> Objectives of the lab:Software based Electromagnetics laboratory for Undergraduate Students, Server configuration for data flow and web hosting, Creating a client side Graphical User Interface (GUI).</p>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+									<!--<p class="text-normal-gray-small">IIT DELHI</p>-->
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+EEE08+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+									<a href="http://vlabs.ac.in/courses/course-v1:IIT-Delhi+ECE08+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>
 								</div>
-							<!--	<div class="col-md-2 lab-list-row-col-2">
-									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
+								<!--<div class="col-md-2 lab-list-row-col-2">
+									<a class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
 								</div>-->
-							</div>
+							</div> 
+
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+MECH21+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Machine Dynamics and Mechanical Vibrations</a></p>
-									<p class="text-normal-gray-smallest">This lab decribes the free vibration of cantilever beam: simply supported beam fixed beam: and Forced vibration of SDOF system, 2DOF Forced vibration, Dynamic Vibration Absorber.</p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Delhi+ECE21+Anytime/about" class="sidebar-a">
+<span style="font-size: 30px; color:red;">*</span>Virtual Queuing Networks Modelling</a></p>
+									<p class="text-normal-gray-smallest"> The sole objective of this virtual lab is to develop a software tool which helps the students to understand and visualize the concepts of queues and equip them with the necessary insight so as to apply queuing systems to real world problems.</p> 
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+MECH21+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-							<!--	<div class="col-md-2 lab-list-row-col-2">
-									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
-								</div>-->
-							</div>
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+EE30+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Substation Automation </a></p>
-									<p class="text-normal-gray-smallest"> A substation is a part of an electrical generation, transmission and distribution system. The assembly of apparatus used to change some characteristics (e.g. voltage, frequency, p.f., A.C. to D.C. etc.) of an electrical supply is called a substation.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.ac.in/courses/course-v1:NIT-Surathkal+EE30+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Delhi+ECE21+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 							<!--	<div class="col-md-2 lab-list-row-col-2">
 									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
@@ -242,28 +211,150 @@ step-by-step' instructions available in each lab to assist the users.</li>
 
 
 
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"> 	<a href="http://118.102.191.41/?link=T001" class="sidebar-a" target="_blank">
+Virtual Wireless Lab</a></p>
+									<p class="text-normal-gray-smallest"> To learn the basic concepts related to wireless communications and to conduct experiments to characterize a wireless channel.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a href="http://118.102.191.41/?link=T001" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+							<!--	<div class="col-md-2 lab-list-row-col-2">
+									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
+								</div>-->
+							</div>
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a href="http://iitd.vlab.co.in/?sub=65&amp;brch=183" class="sidebar-a" target="_blank">
+Virtual Microwave &amp; Antenna Laboratory</a></p>
+									 <p class="text-normal-gray-smallest"> The main objective of Antennas and Microwave Laboratory is to bring undergraduate and graduate students up by practical application studies in microwaves, antennas and propagation.</p> 
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a href="http://iitd.vlab.co.in/?sub=65&amp;brch=183" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+							<!--	<div class="col-md-2 lab-list-row-col-2">
+									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
+								</div>-->
+							</div>
 
 
 <!-- the following labs are opening with their own website links-->
-			
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a href="http://iitd.vlab.co.in/?sub=63" class="sidebar-a" target="_blank"> Bio-reactor Modeling and Simulation Lab </a> </p>
+									<p class="text-normal-gray-smallest"> This lab includes experiments in Bioreactor- Basics || Control Characteristics of pH Controller || Estimation of growth kinetic parameters in batch fermentation || Simultaneous measurement of specific growth / death rate of micro organisms || Determination of Volumeteric Mass Transfer Co-efficient (Dynamic method)</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a href="http://iitd.vlab.co.in/?sub=63" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+							<!--	<div class="col-md-2 lab-list-row-col-2">
+									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
+								</div>-->
+							</div>
 
+
+				
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a href="http://iitd.vlab.co.in/?sub=67&amp;brch=185" class="sidebar-a" target="_blank">Virtual Power Electronics and Electric Drives Lab</a></p>
+
+									<p class="text-normal-gray-smallest"> This lab provides experiments in Full Wave Rectifier, Full Wave Rectifier With Source Inductance, Phase Rectifier With Source Inductance and Buck Converter etc.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a href="http://iitd.vlab.co.in/?sub=67&amp;brch=185/" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+							<!--	<div class="col-md-2 lab-list-row-col-2">
+									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
+								</div>-->
+							</div>
+							
+
+							
+							<h2 class="text-h2-lightblue" style="
+						     margin-bottom:
+						               20px;
+						               margin-top:
+						               30px;
+						               ">Upcoming Labs</h2>
+							
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue" style="margin-bottom: 0px">Virtual Lab related to Textile Engineering</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+								<!--	<a href="#/" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>-->
+								</div>
+
+							</div>
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue">FPGA &amp; Digital Design Lab</p>
+									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+								<!--	<a href="#/" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>-->
+								</div>
+							</div>
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue">Virtual MEMS Lab</p>
+									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+								<!--	<a href="http://118.102.191.41/?link=T001" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>-->
+								</div>
+							</div>
 							
 						</div>
 					</div>
 			</div>
 			<!-- =================================================================================================================================== -->
 
-
-
 	</div> <!-- content div -->
 
-
+ <!-- top div -->
 <div id="footermerge"> </div>
 <script type="text/javascript">
   $(document).ready(function() {
    $("#footermerge").load("http://vlabs.ac.in:5959/common/footer/footer.html");
    });
 </script>
+
+
 
 
 			

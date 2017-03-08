@@ -759,6 +759,745 @@ introduced to linguistic concepts, terminology and analysis.</p>
 								</div>-->
 							</div>	
 
+<!-- the following labs links are open with their own website links-->
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse30-iiith.virtual-labs.ac.in/" class="sidebar-a">Analog CMOS VLSI Circuit Design</a></p>
+									<p class="text-normal-gray-smallest"> The lab explains the 
+design of analog CMOS circuits starting from specifications, design and 
+simulation.  The lab presents the basic analog building blocks and 
+circuit topologies design and characterization. </p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup25" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>Reference Books
+1 - Principles of CMOS VLSI Design, Second Edition, Neil H. E. Weste and Kamran Eshraghian, Addison Wesley, 1993<br>
+2 - CMOS Digital Integrated Circuits Analysis and Design, Third Edition, Sung-Mo (Steve) Kang and Yusuf Leblebici, McGraw-Hill, 2002.<br>
+3 - Introduction to CMOS Op-Amps and Comparators, Roubik Gregorian, Wiley, 1999. </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup25" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup26" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>KUK, MDU, RTU, UPTU, IPU (UG)  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup26" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/117106030/nptel-aic/analogicdesign-intro.pdf" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.iitkgp.ernet.in/coa/" class="sidebar-a">Computer Organisation and Architecture</a></p>
+									<p class="text-normal-gray-smallest"> The Objective is to 
+Expose the students to the various key aspects of Computer Organisation 
+&amp; Architecture by enabling them to perform FPGA based prototyping of
+ experiments with support of a virtual environment.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIT KHARAGPUR</p>
+								</div>
+								<!--popup-->
+<div id="popup27" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>1 - Computer Organization and Design, 2nd Ed., by David A. Patterson and John L. Hennessy, Morgan 1997,<br>
+2 - Kauffmann,Computer System Architecture by M. Mano, 2001, Prentice-Hall.<br>
+3 - Computer Architecture- Nicholas Carter, 2002, T.M.H. </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup27" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup28" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>KUK, MDU, RTU, UPTU, IPU (UG)  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup28" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/Webcourse-contents/IIT-%20Guwahati/comp_org_arc/web/" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse02-iiith.vlabs.ac.in/" class="sidebar-a">Computer Programming</a></p>
+									<p class="text-normal-gray-smallest"> The interactive 
+experiments in this lab will give the students an opportunity for 
+learning and better understanding of the basic concepts and constructs 
+of computer programming.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup29" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>1 - The C Programming Language by Dennis Ritchie and Brian Kernighan.<br>
+2 - The Practice of Programming by Kernighan and Pike.<br>
+3 - Expert C Programming, Deep C Secrets by Peter van der Linden.
+	
+IIIT HYDERABAD  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup29" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup30" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p> KUK, MDU, RTU, UPTU, IPU (UG)</p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup30" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/106105085/4" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse09-iiith.virtual-labs.ac.in/" class="sidebar-a">Linux Lab</a></p>
+									<p class="text-normal-gray-smallest"> The objective of this lab
+ is to make students familiar with the Linux command-line environment. 
+This lab also promotes basic understanding of system administration 
+processes by providing a hands-on experience. It is expected that by 
+using this lab the students will become comfortable in working with a 
+Linux machine.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+<!--popup-->
+<div id="popup31" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup31" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup32" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p> No syllabus in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup32" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://textofvideo.nptel.iitm.ac.in/106108055/lec11.pdf" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://ssp-iiith.vlabs.ac.in/" class="sidebar-a">Speech Signal Processing</a></p>
+									<p class="text-normal-gray-smallest"> The objective of this lab
+ is to provide hands on experience in processing speech signals for 
+extraction of information for various applications.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+<!--popup-->
+<div id="popup33" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>1 - Signal & System  Simon Hykin & Barry Van Veen<br>
+2 - Signals & System Oppenheim & Schafer<br>
+3 - Discrete Time Signal Processing  Oppenheim & Schafer </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup33" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup34" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p> KUK, MDU, RTU, UPTU, IPU (UG)  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup34" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->								
+
+
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/syllabus/117104023/" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse17-iiith.virtual-labs.ac.in/" class="sidebar-a">Mobile Robotics</a></p>
+									<p class="text-normal-gray-smallest"> The virtual lab on Mobile
+ Robotics is designed to supplement a senior undergraduate or graduate 
+level course in Mobile Robotics. The experiments are designed to improve
+ the clarity in understanding of the basic concepts as well as to enable
+ the student to put them into practical use.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup35" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup35" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup36" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>No syllabus in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup36" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/112108093/" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.iitkgp.ernet.in/se/" class="sidebar-a">Software Engineering Lab</a></p>
+									<p class="text-normal-gray-smallest"> This lab attempts to 
+provide basic concepts to the students on a wide range of topics 
+including Requirements analysis, ER modeling, identification of domain 
+classes, use-case diagrams, designing a test suite.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIT KHARAGPUR</p>
+								</div>
+								<!--popup-->
+<div id="popup37" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>1 - Software Engineering A Practitioner‟ s Approach, Roger S. Pressman, 1996, MGH.<br>
+2 - Software Engineering by Ian sommerville, Pearson Edu, 5th edition, 1999<br>
+3 - An Integrated Approach to software engineering by Pankaj jalote , 1991 Narosa </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup37" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup38" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>KUK, MDU, RTU, UPTU, IPU (UG)  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup38" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/video.php?subjectId=106101061" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+                <div class="col-md-4">
+                  <p class="text-h3-darkblue"><a target="_blank" href="http://coep.vlab.co.in/index.php?sub=29" class="sidebar-a">FPGA and Embedded System Lab</a></p>
+                  <p class="text-normal-gray-smallest"> This lab is a 
+great tool if you are new to developing embedded systems on FPGAs and 
+explains not only the "how" but also the "why".</p>
+                </div>
+                <div class="col-md-2 lab-list-row-col-2">
+                  <p class="text-normal-gray-small">COE PUNE</p>
+                </div>
+                <!--popup-->
+<div id="popup39" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p> No books in records</p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup39" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup40" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>No syllabus in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup40" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+                <div class="col-md-2 lab-list-row-col-2">
+                  <a target="_blank" href="http://nptel.ac.in/video.php?subjectId=108102045" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+                </div>
+              </div>
+              
+							
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse06-iiith.virtual-labs.ac.in/" class="sidebar-a">Data Mining</a></p>
+									<p class="text-normal-gray-smallest"> The Data Mining virtual lab provides a platform for students to understand the concepts of Data mining and their application.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup41" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records   </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup41" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup42" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p> No syllabus in records</p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup42" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/video.php?subjectId=106106093" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+
+
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse05-iiith.virtual-labs.ac.in/" class="sidebar-a">Principles of Programming Languages</a></p>
+									<p class="text-normal-gray-smallest"> The objective of this lab
+ is to build your own little programming languages using the principles 
+described in the book Essentials of Programming Languages, 3rd Ed. 
+(EOPL) by Friedman and Wand.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup43" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup43" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup44" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p> No syllabus in records </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup44" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/video.php?subjectId=106102067" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+                                                        
+                           
+                                                        
+              <div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://sage.virtual-labs.ac.in/home/pub/1/" class="sidebar-a">Databases</a></p>
+									<p class="text-normal-gray-smallest"> This lab is intended to 
+complement an introductory course on databases with practice sessions on
+ designing, creating, modifying and querying databases.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup45" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>1 - Database System Concepts by A. Silberschatz, H.F. Korth and S. Sudarshan, 3rd edition, 1997, McGrawHill, International Edition.<br>
+2 - A Guide to the SQL Standard, Date, C. and Darwen,H. 3rd edition, Reading, MA: 1994, Addison-Wesley<br>
+3 - Data Management & file Structure by Looms, 1989, PHI </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup45" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup46" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>KUK, MDU, RTU, UPTU, IPU (UG)  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup46" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/106106093/" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+                            <div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse13-iiith.virtual-labs.ac.in/" class="sidebar-a">Virtual Advanced VLSI Lab</a></p>
+									<p class="text-normal-gray-smallest"> This Virtual Lab program 
+is designed as a second level course in VLSI after completion of basic 
+courses. A student should have knowledge Basic Electronic Circuits and 
+Introduction to VLSI to get maximum profit from this lab program. The 
+lab contrues the notion of developing integrated circuits and optimizing
+ various parameters of its performance.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup47" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup47" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup48" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>No syllabus in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup48" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/video.php?subjectId=117106092" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+								</div>
+							</div>
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+                <div class="col-md-5">
+                  <p class="text-h3-darkblue"><a target="_blank" href="http://cse.iitkgp.ac.in/%7Erkumar/pds-vlab/" class="sidebar-a">Programming and Data Structure </a></p>
+                  <p class="text-normal-gray-smallest"> The basic thrust of this Lab will be to learn programming languages and implementing data structures.</p>
+                </div>
+                <div class="col-md-2 lab-list-row-col-2">
+                  <p class="text-normal-gray-small">IIT KHARAGPUR</p>
+                </div>
+                <!--popup-->
+<div id="popup49" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup49" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup50" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>No syllabus in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup50" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+                <div class="col-md-2 lab-list-row-col-2">
+                  <!--<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;" /> Lecture</a>-->
+                </div>
+              </div>
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://cse21-iiith.virtual-labs.ac.in/" class="sidebar-a">Optical Remote Sensing</a></p>
+									<p class="text-normal-gray-smallest"> The Optical Remote 
+Sensing Virtual Lab will help the students comprehend, learn and 
+understand the mechanisms of image capture in satellite and airborne 
+optical remote sensing sensors, their design considerations and 
+limitations.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<p class="text-normal-gray-small">IIIT HYDERABAD</p>
+								</div>
+								<!--popup-->
+<div id="popup51" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Reference Books</h3>
+  </header>
+  <div class="modal-body">
+    <p>No books in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+
+<a target="_blank" data-modal-id="popup51" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
+	
+
+</div>
+<div id="popup52" class="modal-box">
+  <header> <a  class="js-modal-close close">×</a>
+  <h3>Syllabus Mapping</h3>
+  </header>
+  <div class="modal-body">
+    <p>No syllabus in records  </p>
+	
+  </div>
+   <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
+</div>
+
+<div class="col-md-2 lab-list-row-col-2">
+<a target="_blank"  data-modal-id="popup52" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
+</div>
+<!--popup-->
+								<div class="col-md-2 lab-list-row-col-2">
+									<!--<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;" /> Lecture</a>-->
+								</div>
+							</div>
+
+
+<h2 class="text-h2-lightblue" style=" margin-bottom:
+							20px; margin-top: 30px;
+							">Upcoming Labs</h2>							
+             				                            
+					<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue" style="margin-bottom: 0px">FPGA &amp; Digital Design Lab</p>
+								</div>
+								<div class="col-md-5 ">
+									<p class="text-normal-gray-small" style="margin-bottom: 0px">IIT DELHI</p>
+								</div>
+							</div>
+
+							<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-4">
+									<p class="text-h3-darkblue" style="margin-bottom: 0px">Virtual Wireless &amp; Security</p>
+								</div>
+								<div class="col-md-5 ">
+									<p class="text-normal-gray-small" style="margin-bottom: 0px">AMRITA UNIVERSITY</p>
+								</div>
+							</div>
+
+
+						
+							
+
 
 						</div>
 					</div>
