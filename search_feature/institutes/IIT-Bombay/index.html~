@@ -163,7 +163,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 							
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Bombay+BIOTECH25+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Proteomics Lab </a></p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:IIT-Bombay+BIOTECH25+Aytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Proteomics Lab </a></p>
 									<p class="text-normal-gray-smallest"> In this lab, we will do virtual experiments . We will start with an overview of Virtual Proteomics Laboratory, and from then on, the experiments get more interesting.</p	>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -226,7 +226,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 							
 <div style="margin-top: 20px; " class="lab-list-row-div">							
 <div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="https://vlabs.ac.in/courses/course-v1:IIT-Bombay+ECE40+Anytime/about" class="sidebar-a" target="_blank"><span style="font-size: 30px; color:red;">*</span>Electronic Devices and Circuits</a></p>
+									<p class="text-h3-darkblue"><a href="http://10.2.57.65/courses/course-v1:IIT-Bombay+ECE40+Anytime/about" class="sidebar-a" target="_blank"><span style="font-size: 30px; color:red;">*</span>Electronic Devices and Circuits</a></p>
 									<p class="text-normal-gray-smallest"> This labs provides experiments for I-V Characteristics and Fabrication of p-n junction Diode, I-V Characteristics of LED Diode, Rectifier Circuits and Wave Shaping Circuits using Diodes.</p	>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -260,180 +260,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 
 <!-- the following course are opening with their own website links-->
 
-  <div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://59.181.142.81/" class="sidebar-a" target="_blank">Electronic design using DSP, FPGA, CPLD and Micro Controllers</a></p>
-									<p class="text-normal-gray-smallest"> This lab deals with basics of signals and systems, image processing, microcontrollers. devices and circuits and Modern Digital design.</p	>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT BOMBAY</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://59.181.142.81/" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/courses/Webcourse-contents/IIT-KANPUR/microcontrollers/micro/ui/About-Faculty.htm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://www.aero.iitb.ac.in/pratham/virtuallaboratory/index.php" class="sidebar-a" target="_blank">Satellite Modelling and Simulation</a></p>
-									 <p class="text-normal-gray-smallest"> Virtual Laboratory in Satellite Modelling &amp; Simulation offers distance learning opportunity in Satellite Technology through online experiments. In this laboratory, students can perform experiments with the same tools that helped ISSP team to learn about Satellites; these are the same tools that helped ISSP team to design Pratham.</p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://www.aero.iitb.ac.in/pratham/virtuallaboratory/index.php" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="http://textofvideo.nptel.iitm.ac.in/105107123/lec1.pdf" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>!-->
-								</div>
-							</div> 
 
-<div style="margin-top: 20px; " class="lab-list-row-div">
-<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="https://vlabs.ac.in/courses/course-v1:IIT-Bombay+TEL-IITB+Anytime/about" class="sidebar-a" target="_blank">Urban Transportation Systems Planning Lab</a></p>
-									<p class="text-normal-gray-smallest"> This lab includes experiments in Volume, Speed and Delay Study at Intersection, Regression Analysis,Category Analysis and Growth Factor Distribution Modelis.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								  <a href="https://vlabs.ac.in/courses/course-v1:IIT-Bombay+TEL-IITB+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB
-								</div>
-								<!--<div class="col-md-2 lab-list-row-col-2">
-								  <!--<a href="http://nptel.ac.in/courses/105106058/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE
-								</div>-->
-							</div>
-
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.iitb.ac.in/sbhs/" class="sidebar-a" target="_blank">Single Board Heater System</a></p>
-									<p class="text-normal-gray-smallest"> Single Board Heater system is a lab-in-a-box setup which is primarily used for teaching/studying the theory of control systems. It can be thought of as a plant with a very small time constant (of the order of 60s).</p	> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.iitb.ac.in/sbhs/" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<!--<div class="col-md-2 lab-list-row-col-2">
-									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
-								</div>-->
-							</div>
-
-<div style="margin-top: 20px; " class="lab-list-row-div">
-							<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.iitb.ac.in/eemddl/" class="sidebar-a" target="_blank">Modern Digital Design Lab</a></p>
-									<p class="text-normal-gray-smallest"> This is purely simulation based lab. Users are not required to book the slots. These are low-cost kit-based lab.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT BOMBAY</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.iitb.ac.in/eemddl/" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB
-								</div>
-								<!--<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE
-								</div>-->
-							</div>	
- <h2 class="text-h2-lightblue" style=" margin-bottom: 20px; margin-top:
-	30px; ">Upcoming Labs</h2>                                            
-							<div style="margin-top: 20px; " class="lab-list-row-div">
- 								<div class="col-md-5">
-									<p class="text-h3-darkblue">Power System Lab</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="http://www.ee.iitb.ac.in/palabs/vpsl/" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>!-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>!-->
-								</div>
-							</div>
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue">Mechanical Engineering Lab</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"><img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a> !-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>!-->
-								</div>
-							</div>
-							
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue">Microelectronics</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>!-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>!-->
-								</div>
-							</div>
-							
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"> 	VLSI Design and Verification Lab</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>!-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>!-->
-								</div>
-							</div>
-							<!--<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://civil11.virtual-labs.ac.in/siplabs/" class="sidebar-a">Virtual Satellite Image Processing & Analysis Lab</a></p>
-									 <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									 <p class="text-normal-gray-small">IIT KHARAGPUR</p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://civil11.virtual-labs.ac.in/siplabs/" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
-								</div>
-							</div>!-->
-							
-								<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue">Internet based Virtual CNC lab</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p	> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!-- <p class="text-normal-gray-small">IIT KHARAGPUR</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="#" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>!-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>!-->
-								</div>
-							</div> 
-	
 
 
 							

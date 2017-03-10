@@ -210,7 +210,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:COE-Pune+EEE12+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span> PLC</a></p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:COE-PUNE+EEE12+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span> PLC</a></p>
 									<p class="text-normal-gray-smallest">This lab focuses on programmable logic controller, PLC, or programmable controller which is a digital computer used for automation of typically industrial electromechanical processes.</p>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -225,7 +225,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="https://vlabs.ac.in/courses/course-v1:COE-PUNE+MECH17+Anytime/about" class="sidebar-a"> <span style="font-size: 30px; color:red;">*</span> Micromachining laboratory</a></p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:COE-PUNE+MECH17+Anytime/about" class="sidebar-a"> <span style="font-size: 30px; color:red;">*</span> Micromachining laboratory</a></p>
 									<p class="text-normal-gray-smallest"> In this lab various tools and techniques are demonstrated for machining. We will study pulse heating of material, thermal model for EDM, erosion mechanism, electrochemical machining process and many more.</p>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -240,7 +240,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:COE-Pune+MECH18+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span> FAB laboratory</a></p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:COE-PUNE+MECH18+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span> FAB laboratory</a></p>
 									<p class="text-normal-gray-smallest"> Let us understand and implement anything and everything using 3D machining, 3D scanning, Computer Control, cutting of wooden object, PCB fabrication and many more with advance tools and techniques.</p>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -261,7 +261,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:CEO-Pune+MECH04+Anytime/about" class="sidebar-a" target="_blank"><span style="font-size: 30px; color:red;">*</span> Vibration and Acoustics Lab</a></p>
+									<p class="text-h3-darkblue"><a href="http://10.2.57.65/courses/course-v1:COE-PUNE+MECH04+Anytime/about" class="sidebar-a" target="_blank"><span style="font-size: 30px; color:red;">*</span> Vibration and Acoustics Lab</a></p>
 									<p class="text-normal-gray-smallest">In this lab vibration related techniques are demonstrated like MI of connecting rod, force response and free response of SDOF, Trifiliar suspension, tuned vibration absorber and many more.</p>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -308,21 +308,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 								</div>
 </div>				
 
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://coep.vlab.co.in/index.php?sub=29" class="sidebar-a" target="_blank">FPGA and Embedded System Lab</a></p>
-									<p class="text-normal-gray-smallest"> This lab is a great tool if you are new to developing embedded systems on FPGAs and explains not only the "how" but also the "why"</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://coep.vlab.co.in/index.php?sub=29" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/video.php?subjectId=108102045" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>			
+
 						</div>
 					</div>
 			</div>
