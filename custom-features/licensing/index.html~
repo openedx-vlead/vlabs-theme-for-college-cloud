@@ -128,9 +128,9 @@
       <h1 class="text-h2-lightblue" style=" margin-bottom: 20px; margin-top: 30px; ">Licensing</h2>
       <div style="margin-bottom: 50px;">
 	<h4><b>Virtual Labs Content Licensing</b></h4> 
-	<p>All Content of Virtual Labs is licensed under <a href=""> Creative Commons-Non Commercial-ShareAlike 3.0</a></p> <br>
+	<p>All Content of Virtual Labs is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/"> Creative Commons-Non Commercial-ShareAlike 3.0</a></p> <br>
 	<h4><b>Virtual Labs Software Licensing</b></h4> 
-	<p>Virtual Labs software - experiments, platform and services - is licensed under <a href=""> GNU AFFERO GENERAL PUBLIC LICENSE, Version 3(AGPL-3.0))</a></p> 
+	<p>Virtual Labs software - experiments, platform and services - is licensed under <a href="https://opensource.org/licenses/agpl-3.0"> GNU AFFERO GENERAL PUBLIC LICENSE, Version 3(AGPL-3.0))</a></p> 
         
 <!--above to bullets with links. links are remoing now-->
 

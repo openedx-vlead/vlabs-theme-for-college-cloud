@@ -191,7 +191,8 @@ step-by-step' instructions available in each lab to assist the users.</li>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+EEE01+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/108105017/17" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/iitg/eee01/EEE01-mod1-lect17-lecture-17-auto-transformers.webm
+" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>
 
@@ -312,154 +313,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 
 
 <!-- the following labs are opening with their own website links-->
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://iitg.vlab.co.in/?sub=61&amp;brch=293" class="sidebar-a" target="_blank">Remote Triggered Electromechanical Conversion Laboratory</a></p>
-									<p class="text-normal-gray-smallest"> To perform No Load test of three phase induction motor, To perform Blocked Rotor test of three phase induction motor , To obtain Torque Slip characteristics of three phase induction motor.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://iitg.vlab.co.in/?sub=61&amp;brch=293" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/video.php?subjectId=108108076" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-							
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://iitg.vlab.co.in/?sub=59&amp;brch=163" class="sidebar-a" target="_blank">Systems, Communication and Control Laboratory</a></p>
-									<p class="text-normal-gray-smallest"> This lab deals with the BPSK Modulation and Demodulation, Amplitude Modulation and Demodulation, QPSK Modulation etc.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://iitg.vlab.co.in/?sub=59&amp;brch=163" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/courses/117101051/" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>							
-							
-							
-							
-	<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://iitg.vlab.co.in/?sub=72&amp;brch=170" class="sidebar-a" target="_blank">Creative Design, Prototyping and Experiential Simulation Lab</a></p>
-									 <p class="text-normal-gray-smallest"> Experiments in this lab focus on understanding the theoretical basis of decision making while designing computer screens, displays and product interfaces. </p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://iitg.vlab.co.in/?sub=72&amp;brch=170" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/courses/106103115/module3/5.pdf" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://ergonomics-iitg.vlabs.ac.in/" class="sidebar-a" target="_blank">Ergonomics Lab for Assessing Physical Aspects of Design</a></p>
-									 <p class="text-normal-gray-smallest"> This lab deals with experiments like Static anthropometry, standing heights, Arm forward reaches, standing erect and forward bend etc.</p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://ergonomics-iitg.vlabs.ac.in/" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/courses/107103004/38" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>							
-							
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://iitg.vlab.co.in/?sub=59&amp;brch=269" class="sidebar-a" target="_blank">Remote Triggered Fiber Optics Communication Lab</a></p>
-									<p class="text-normal-gray-smallest"> This lab focuses on Fiber Optic Analog and Digital Link, Fiber Optic Bi-directional Communication, Wavelength Division Multiplexing etc.</p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://iitg.vlab.co.in/?sub=59&amp;brch=269" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://nptel.ac.in/courses/117101054/" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-							
-														
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://iitg.vlab.co.in/?sub=72&amp;brch=169" class="sidebar-a" target="_blank">Virtual Interactive Lab</a></p>
-									 <p class="text-normal-gray-smallest"> This lab introduces us about The Missionaries Archive, Ethnographic Reports and The Folklore and Literature Archive etc.</p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://iitg.vlab.co.in/?sub=72&amp;brch=169" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<!--<div class="col-md-2 lab-list-row-col-2">
-									<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
-								</div>-->
-							</div>
-							
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a href="http://iitg.vlab.co.in/?sub=59&amp;brch=164" class="sidebar-a" target="_blank">Speech Signal Processing</a></p>
-									<p class="text-normal-gray-smallest"> To understand the stationary and non-stationary signal, Sampling Frequency and Bit Resolution for Speech Signal Processing, Identification of Voice/Unvoiced/Silence regions of Speech etc.</p> 
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://iitg.vlab.co.in/?sub=59&amp;brch=164" class="nounderline" target="_blank"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-							<!--	<div class="col-md-2 lab-list-row-col-2">
-									<a href="" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
-								</div>-->
-							</div>
-							
-							
-							 <h2 class="text-h2-lightblue" style=" margin-bottom:
-							 20px; margin-top:
-							 30px; ">Upcoming Labs</h2>
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue">Binary Distillation</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-								<!--	<a href="" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="#" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>-->
-								</div>
-							</div>
-							<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue">Hydrodynamics and Transport phenomena in Packed Bed and Heat Exchangers</p>
-									<!-- <p class="text-normal-gray-smallest"> A brief about the lab appears here, should not be exceed more than 100 characters</p> -->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;" /> LAB</a>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<a href="#" class="nounderline"><img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>--> 
-								</div>
-							</div>
+
 							
 							
 							

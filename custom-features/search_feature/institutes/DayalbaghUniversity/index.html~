@@ -174,7 +174,8 @@ step-by-step' instructions available in each lab to assist the users.</li>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:DEI+CHS12+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/112107145/4" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/dayalbagh/mech26MECH26-mod-1-lect-4-metal-forming-fundamentals.webm
+" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>							
 
@@ -198,7 +199,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:DEI+CHS12+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Chemistry Lab</a></p>
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Dayalbagh-University+CHS12+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Chemistry Lab</a></p>
 									<p class="text-normal-gray-smallest">  To develop Teaching/Learning Modules for advanced separation Techniques: High Performance Thin Layer Chromatography for Under Graduate and Post Graduate students. </p> 
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">

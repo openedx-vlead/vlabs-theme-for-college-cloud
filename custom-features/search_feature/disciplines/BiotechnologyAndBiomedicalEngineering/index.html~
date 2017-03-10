@@ -198,7 +198,8 @@ bipin@amrita.edu</p>
 </div>
 <!--popup-->
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/102103012" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/amrita/biotech01/BIOTECH01-Lecture-1-Amino-acids-I.webm
+" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 
 
@@ -310,7 +311,7 @@ bipin@amrita.edu</p>
 							</div>
 
 
-							<div style="margin-top: 20px; " class="lab-list-row-div">
+							<!--<div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-4">
 									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Roorkee+EEE23+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Medical Signal and Image Processing</a></p>
 									<p class="text-normal-gray-smallest">The Biomedical Virtual Lab aims at providing a platform for students to perform experiments remotely over the web through a user-friendly graphical front end, working in synchrony with a backend consisting of actual measurement data on a server. The user can acquire biomedical signals like EEG, ECG, EMG,  Pulmonary Measurements etc and can then analyse the signals to extract  parameters from it using modules provided in then experiment.The user can also upload their own signals to the experiment and analyse their signal data using it.
@@ -321,7 +322,7 @@ bipin@amrita.edu</p>
 									<p class="text-normal-gray-small">IIT ROORKEE</p>
 								</div>
 								<!--popup-->
-<div id="popup5" class="modal-box">
+<!--<div id="popup5" class="modal-box">
   <header> <a  class="js-modal-close close">×</a>
   <h3>Reference Books</h3>
   </header>
@@ -337,7 +338,7 @@ bipin@amrita.edu</p>
 <a target="_blank" data-modal-id="popup5" class="nounderline"> <img src="images/refbook.png" style="width: 15px;   vertical-align: text-bottom;"> Reference Books</a>
 	
 
-</div>
+<!--</div>
 <div id="popup6" class="modal-box">
   <header> <a  class="js-modal-close close">×</a>
   <h3>Syllabus Mapping</h3>
@@ -349,14 +350,14 @@ bipin@amrita.edu</p>
    <footer> <a  class="btn btn-small js-modal-close">Close</a> </footer>
 </div>
 
-<div class="col-md-2 lab-list-row-col-2">
+<!--<div class="col-md-2 lab-list-row-col-2">
 <a target="_blank"  data-modal-id="popup6" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
 </div>
 <!--popup-->
-								<div class="col-md-2 lab-list-row-col-2">
+								<!--<div class="col-md-2 lab-list-row-col-2">
 								<!--	<a target="_blank" href="#" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;" /> Lecture</a>-->
-								</div>
-							</div>
+								<!--</div>
+							</div>-->
 							<div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-4">
 									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:COE-Pune+BIO16+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Biomedical and Signal processing Laboratory</a></p>
