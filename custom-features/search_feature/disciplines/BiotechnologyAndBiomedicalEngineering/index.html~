@@ -304,9 +304,9 @@ bipin@amrita.edu</p>
 <a target="_blank"  data-modal-id="popup4" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
 </div>
 <!--popup-->
-								<div class="col-md-2 lab-list-row-col-2">
+								<!--<div class="col-md-2 lab-list-row-col-2">
 									<a target="_blank" href="http://nptel.ac.in/courses/102103017/" class="nounderline"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
-								</div>
+								</div>-->
 							</div>
 
 

@@ -138,7 +138,7 @@ Email: krishna@amrita.edu</p>
 								</p><ol>
 <li class="text-normal-gray-smallest" style="text-align: justify;"> Some of the
   labs requires the users to install the Pre-requisites. Click here
-  to view <a href="http://vlabs.ac.in:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
+  to view <a href="http://10.2.57.65:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
 
 								  <li class="text-normal-gray-smallest" style="text-align: justify;">In order to derive maximum learning experience, the users are advised to first read the instructions for conducting the labs. <br> There are' step-by-step' instructions available in each lab to assist the users.</li>
 									<li class="text-normal-gray-smallest" style="text-align: justify;">Some of the labs require the users to log in first. Eventually, there will be a common login for labs.</li>
@@ -164,75 +164,6 @@ Email: krishna@amrita.edu</p>
 								</div>
 							</div>
 
-
-
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Amrita-University+CBL-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Cell Biology Virtual Lab I</a></p>
-									<p class="text-normal-gray-smallest"> Cell biology is an exciting and dynamic area that helps discover the fascinating world of cells. It includes the study of the structure and organization, growth, regulation, movements and interaction of the cells. Cell biology is closely related to other areas of biology such as genetics, molecular biology, and biochemistry.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+CBI-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/102103012/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-
-
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Amrita-University+CBLL-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Cell Biology Virtual Lab II</a></p>
-									<p class="text-normal-gray-smallest"> Cell biology is an exciting and dynamic area that helps discover the fascinating world of cells. It includes the study of the structure and organization, growth, regulation, movements and interaction of the cells. Cell biology is closely related to other areas of biology such as genetics, molecular biology, and biochemistry.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+CBII-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/102103012/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-
-
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Amrita-university+MBVII-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Molecular Biology Virtual Lab II</a></p>
-									<p class="text-normal-gray-smallest"> The study of biology at a molecular level. This field overlaps with other areas of biology and chemistry, particularly genetics and biochemistry. Molecular biology chiefly concerns itself with understanding the interactions between the various systems of a cell, including the interactions between DNA, RNA and protein biosynthesis as well as learning how these interactions are regulated.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+MBVII-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/102106025/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
 									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+HTV-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Heat &amp; Thermodynamics Virtual Lab</a></p>
@@ -245,7 +176,7 @@ Email: krishna@amrita.edu</p>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+HTV-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/112105123/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/amrita/htv-au/HTV-AU-Lec-1-Introduction-and-Fundamental-Concepts.webm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>
 
@@ -274,9 +205,80 @@ Email: krishna@amrita.edu</p>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+OV-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/113104012/25" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/amrita/ov-au/OV-AU-Mod03-Lec-25-Optical-properties-of-materials-6U.webm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>
+
+
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Amrita-University+CBL-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Cell Biology Virtual Lab I</a></p>
+									<p class="text-normal-gray-smallest"> Cell biology is an exciting and dynamic area that helps discover the fascinating world of cells. It includes the study of the structure and organization, growth, regulation, movements and interaction of the cells. Cell biology is closely related to other areas of biology such as genetics, molecular biology, and biochemistry.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+CBI-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+								<!--<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/102103012/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+								</div>-->
+							</div>
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Amrita-University+CBLL-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Cell Biology Virtual Lab II</a></p>
+									<p class="text-normal-gray-smallest"> Cell biology is an exciting and dynamic area that helps discover the fascinating world of cells. It includes the study of the structure and organization, growth, regulation, movements and interaction of the cells. Cell biology is closely related to other areas of biology such as genetics, molecular biology, and biochemistry.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+CBII-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+								<!--<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/102103012/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+								</div>-->
+							</div>
+
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Amrita-university+MBVII-AU+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Molecular Biology Virtual Lab II</a></p>
+									<p class="text-normal-gray-smallest"> The study of biology at a molecular level. This field overlaps with other areas of biology and chemistry, particularly genetics and biochemistry. Molecular biology chiefly concerns itself with understanding the interactions between the various systems of a cell, including the interactions between DNA, RNA and protein biosynthesis as well as learning how these interactions are regulated.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Amrita-University+MBVII-AU+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+								<!--<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://nptel.ac.in/courses/102106025/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+								</div>-->
+							</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div style="margin-top: 20px; " class="lab-list-row-div">
