@@ -73,18 +73,18 @@ google_ad_height = 90;
 
 			                <ul class="nav navbar-nav navbar-right menu-ul">
 			                   <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65/" class="menu-a">HOME</a>
+			                        <a href="http://vlabs.ac.in/" class="menu-a">HOME</a>
 			                    </li>
 			                    <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65/courses" class="menu-a">ALL LABS</a>
+			                        <a href="http://vlabs.ac.in/courses" class="menu-a">ALL LABS</a>
 			                    </li>
 <li class="page-scroll menu-li ">
-                                                <a href="http://10.2.57.65/courses" class="menu-a">ALL LABS ON OPENEDX</a>
+                                                <a href="http://vlabs.ac.in/courses" class="menu-a">ALL LABS ON OPENEDX</a>
                                             </li>
 			                    <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65:5959/search_feature/institutes/IIT-Delhi/" class="menu-a">PARTCIPATING INSTITUTES</a>
+			                        <a href="http://vlabs.ac.in:5959/search_feature/institutes/IIT-Delhi/" class="menu-a">PARTCIPATING INSTITUTES</a>
 			                    </li><li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65:5959/contactus/index.html" class="menu-a">CONTACT</a>
+			                        <a href="http://vlabs.ac.in:5959/contactus/index.html" class="menu-a">CONTACT</a>
 			                    </li>
 			                </ul>
 
@@ -195,13 +195,13 @@ ratnajit@iitg.ernet.in
 <!--popup-->
 
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href=" http://10.2.57.65:5959/videos/coep/eee09/EEE09-lecture-12-pid-control.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+									<a href=" http://vlabs.ac.in:5959/videos/coep/eee09/EEE09-lecture-12-pid-control.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 							</div>
 
 							<div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-4">
-									<a href="http://10.2.57.65/courses/course-v1:COE-PUNE+EEE12+Anytime/about" class="sidebar-a" target="_blank"><p class="text-h3-darkblue"><span style="font-size: 30px; color:red;">*</span>PLC</p></a>
+									<a href="http://vlabs.ac.in/courses/course-v1:COE-PUNE+EEE12+Anytime/about" class="sidebar-a" target="_blank"><p class="text-h3-darkblue"><span style="font-size: 30px; color:red;">*</span>PLC</p></a>
 									<p class="text-normal-gray-smallest"> This lab focuses on programmable logic controller, PLC, or programmable controller which is a digital computer used for automation of typically industrial electromechanical processes.</p>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
@@ -242,7 +242,7 @@ ratnajit@iitg.ernet.in
 </div>
 <!--popup-->
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://10.2.57.65:5959/videos/coep/eee12/EEE12-Lecture-1-introduction.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+									<a href="http://vlabs.ac.in:5959/videos/coep/eee12/EEE12-Lecture-1-introduction.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 							</div>
 
@@ -288,7 +288,7 @@ ratnajit@iitg.ernet.in
 </div>
 <!--popup-->
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://10.2.57.65:5959/videos/iitg/eee01/EEE01-mod1-lect17-lecture-17-auto-transformers.webm
+									<a href="http://vlabs.ac.in:5959/videos/iitg/eee01/EEE01-mod1-lect17-lecture-17-auto-transformers.webm
 " class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 							</div>
@@ -312,7 +312,7 @@ ratnajit@iitg.ernet.in
 
 <div style="margin-top: 20px; " class="lab-list-row-div">
                 <div class="col-md-4">
-                  <p class="text-h3-darkblue"><a target="_blank" href="http://10.2.57.65/courses/course-v1:Dayalbagh-University+EEE06+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Power Lab</a></p>
+                  <p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:Dayalbagh-University+EEE06+Anytime/about" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Power Lab</a></p>
                   <p class="text-normal-gray-smallest"> To develop virtual machines and power laboratory to facilitate the students to work with their own convenience and easily understand the practical concepts. Also it helps in generating the interest in students' community to get better insight about the subjects related to machines and power systems.</p>
                 </div>
                 <div class="col-md-2 lab-list-row-col-2">
@@ -558,7 +558,7 @@ ratnajit@iitg.ernet.in
 
 							<div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-4">
-									<a target="_blank" href="http://10.2.57.65/courses/course-v1:COE-PUNE+EEE10+Anytime/about"><p class="text-h3-darkblue" style="margin-bottom: 0px"><span style="font-size: 30px; color:red;">*</span>Electrical Machines</p></a>
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:COE-PUNE+EEE10+Anytime/about"><p class="text-h3-darkblue" style="margin-bottom: 0px"><span style="font-size: 30px; color:red;">*</span>Electrical Machines</p></a>
 <p class="text-normal-gray-smallest">In this lab we will perform load test and speed control on separately excited DC motor, no load test, blocked rotor test on three phase induction motor, open circuit, short circuit and load test on three phase alternator,etc</p>
 								</div>
 <div class="col-md-2 lab-list-row-col-2">

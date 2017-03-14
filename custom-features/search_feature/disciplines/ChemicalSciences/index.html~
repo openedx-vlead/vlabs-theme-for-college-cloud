@@ -75,18 +75,18 @@ google_ad_height = 90;
 
 			                <ul class="nav navbar-nav navbar-right menu-ul">
 			                   <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65/" class="menu-a">HOME</a>
+			                        <a href="http://vlabs.ac.in/" class="menu-a">HOME</a>
 			                    </li>
 			                    <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65/courses" class="menu-a">ALL LABS</a>
+			                        <a href="http://vlabs.ac.in/courses" class="menu-a">ALL LABS</a>
 			                    </li>
 <li class="page-scroll menu-li ">
-                                                <a href="http://10.2.57.65/courses" class="menu-a">ALL LABS ON OPENEDX</a>
+                                                <a href="http://vlabs.ac.in/courses" class="menu-a">ALL LABS ON OPENEDX</a>
                                             </li>
 			                    <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65:5959/search_feature/institutes/IIT-Delhi/" class="menu-a">PARTCIPATING INSTITUTES</a>
+			                        <a href="http://vlabs.ac.in:5959/search_feature/institutes/IIT-Delhi/" class="menu-a">PARTCIPATING INSTITUTES</a>
 			                    </li><li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65:5959/contactus/index.html" class="menu-a">CONTACT</a>
+			                        <a href="http://vlabs.ac.in:5959/contactus/index.html" class="menu-a">CONTACT</a>
 			                    </li>
 			                </ul>
 
@@ -141,7 +141,7 @@ deiusic@gmail.com</p>
 								</p><ol>
 <li class="text-normal-gray-smallest" style="text-align: justify;"> Some of the
   labs requires the users to install the Pre-requisites. Click here
-  to view <a href="http://10.2.57.65:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
+  to view <a href="http://vlabs.ac.in:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
 								  <li class="text-normal-gray-smallest" style="text-align: justify;">In order to derive maximum learning experience, the users are advised to first read the instructions for conducting the labs. There are' step-by-step' instructuins available in each lab to assist the users.</li>
 									<li class="text-normal-gray-smallest" style="text-align: justify;">Some of the labs require the users to log in first. Eventually, there will be a common login for labs.</li>
 									<li class="text-normal-gray-smallest" style="text-align: justify;">Related NPTEL lectures are also available on the link given below.</li>
@@ -245,7 +245,7 @@ deiusic@gmail.com</p>
 </div>
 <!--popup-->
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://10.2.57.65:5959/videos/iiith/ccnsb07/CCNSB07-mod01-lec04-surface-tension-in-molecular-interactions.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+									<a href="http://vlabs.ac.in:5959/videos/iiith/ccnsb07/CCNSB07-mod01-lec04-surface-tension-in-molecular-interactions.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 							</div>
 
@@ -449,7 +449,7 @@ preparation of chemical compounds that contain carbon.</p>
  
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-4">
-									<p class="text-h3-darkblue"><a href="http://10.2.57.65/courses/course-v1:Dayalbagh-University+CHS12+Anytime/about" target="_blank" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Chemistry Lab</a></p>
+									<p class="text-h3-darkblue"><a href="http://vlabs.ac.in/courses/course-v1:Dayalbagh-University+CHS12+Anytime/about" target="_blank" class="sidebar-a"><span style="font-size: 30px; color:red;">*</span>Virtual Chemistry Lab</a></p>
 									<p class="text-normal-gray-smallest"> This lab is to inculcate 
 in depth knowledge of theoretical and practical concepts of 
 Chromatography, inducing confidence in the students for better 
