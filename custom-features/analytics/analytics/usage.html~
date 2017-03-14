@@ -250,9 +250,9 @@
                                                 <a href="http://10.2.57.65/courses" class="menu-a">ALL LABS ON OPENEDX</a>
                                             </li>
 			                    <li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65:5959/search_feature/institutes/IIT-Delhi/" class="menu-a">PARTCIPATING INSTITUTES</a>
+			                        <a href="http://10.2.57.65:5959/custom-features/search_feature/institutes/IIT-Delhi/index.html" class="menu-a">PARTCIPATING INSTITUTES</a>
 			                    </li><li class="page-scroll menu-li ">
-			                        <a href="http://10.2.57.65:5959/contactus/index.html" class="menu-a">CONTACT</a>
+			                        <a href="http://10.2.57.65:5959/custom-features/contactus/index.html" class="menu-a">CONTACT</a>
 			                    </li>
 			                </ul>
 			                	
