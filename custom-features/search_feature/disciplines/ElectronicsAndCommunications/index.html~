@@ -193,9 +193,9 @@ rbose@ee.iitd.ac.in
 <a target="_blank"  data-modal-id="popup2" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
 </div>
 <!--popup-->
-								<div class="col-md-2 lab-list-row-col-2">
+								<!--<div class="col-md-2 lab-list-row-col-2">
 									<a href="http://nptel.ac.in/courses/117102012/" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
-								</div>
+								</div>-->
 							</div>
 
 							<div style="margin-top: 20px; " class="lab-list-row-div">
@@ -239,9 +239,9 @@ rbose@ee.iitd.ac.in
 <a target="_blank"  data-modal-id="popup4" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
 </div>
 <!--popup-->
-								<div class="col-md-2 lab-list-row-col-2">
+								<!--<div class="col-md-2 lab-list-row-col-2">
 									<a href="http://nptel.ac.in/courses/117103017/" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
-								</div>
+								</div>-->
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-4">
@@ -336,7 +336,7 @@ rbose@ee.iitd.ac.in
 </div>
 <!--popup-->
               <div class="col-md-2 lab-list-row-col-2">
-                <a href="http://nptel.ac.in/courses/117104074/" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+                <a href="http://10.2.57.65:5959/videos/iitg/ece10/Signals-and-Systems-Laboratory.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
               </div>
             </div>
 
@@ -382,9 +382,9 @@ rbose@ee.iitd.ac.in
 <a target="_blank"  data-modal-id="popup10" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
 </div>
 <!--popup-->
-              <div class="col-md-2 lab-list-row-col-2">
+              <!--<div class="col-md-2 lab-list-row-col-2">
                 <a  class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
-              </div>
+              </div>-->
             </div>
 
 

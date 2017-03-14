@@ -140,7 +140,7 @@ kumar@mech.iitkgp.ernet.in
 							  </p><ol>
 <li class="text-normal-gray-smallest" style="text-align: justify;"> Some of the
   labs requires the users to install the Pre-requisites. Click here
-  to view <a href="http://vlabs.ac.in:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
+  to view <a href="http://10.2.57.65:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
                                                             
 									<li class="text-normal-gray-smallest" style="text-align: justify;">In order to derive maximum learning experience, the users are advised to first read the instructions for conductiong the labs. There are' step-by-step' instructuins available in each lab to assist the users.</li>
 									<li class="text-normal-gray-smallest" style="text-align: justify;">Some of the labs require the users to log in first. Eventually, there will be a common login for labs.</li>
@@ -197,8 +197,7 @@ kumar@mech.iitkgp.ernet.in
 <!--popup-->
 
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://10.2.57.65:5959/videos/dayalbagh/mech26MECH26-mod-1-lect-4-metal-forming-fundamentals.webm
-" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+									<a href="http://10.2.57.65:5959/videos/coep/eee09/EEE09-lecture-12-pid-control.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 							</div>
 
@@ -339,7 +338,7 @@ kumar@mech.iitkgp.ernet.in
 </div>
 <!--popup-->
 								<div class="col-md-2 lab-list-row-col-2">
-									<a href="http://vlabs.ac.in:5959/videos/coep/mech18/MECH18-mod1-lect-1power-metallurgy.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
+									<a href="http://10.2.57.65:5959/videos/coep/mech18/MECH18-mod1-lect-1power-metallurgy.webm" class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
 							</div>
 
@@ -478,7 +477,7 @@ kumar@mech.iitkgp.ernet.in
 </div>
 <!--popup-->
             <div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/112103112/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/iiith/cse02/CSE02-lecture-4-programming.webm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> Lecture</a>
 								</div>
             </div>
 
@@ -574,10 +573,9 @@ kumar@mech.iitkgp.ernet.in
 <a target="_blank"  data-modal-id="popup14" class="nounderline"> <img src="images/syllabus.png" style="width: 15px;   vertical-align: text-bottom;"> Syllabus Map</a>
 </div>
 <!--popup-->
-             <!-- <div class="col-md-2 lab-list-row-col-2">
+             <div class="col-md-2 lab-list-row-col-2">
                 <a  class="nounderline" target="_blank"> <img src="images/chat.png" style="width: 15px;   vertical-align: text-bottom;"> Lecture</a>
-              </div>-->
-            </div>
+              </div>            </div>
 
 
 

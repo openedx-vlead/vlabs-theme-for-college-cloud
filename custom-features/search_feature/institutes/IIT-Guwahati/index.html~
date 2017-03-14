@@ -139,7 +139,7 @@ Email: ratnajit@iitg.ernet.in
 							  </p><ol>
 <li class="text-normal-gray-smallest" style="text-align: justify;"> Some of the
   labs requires the users to install the Pre-requisites. Click here
-  to view <a href="http://vlabs.ac.in:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
+  to view <a href="http://10.2.57.65:5959/search_feature/PreRequisites/" class="nounderline">Pre-requisites</a></li>
                                                             
 									<li class="text-normal-gray-smallest" style="text-align: justify;">In
  order to derive maximum learning experience, the users are advised to 
@@ -166,7 +166,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+ECE10+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/117104074/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/iitg/ece10/Signals-and-Systems-Laboratory.webm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
@@ -201,25 +201,10 @@ step-by-step' instructions available in each lab to assist the users.</li>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+HSS02+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/109104031/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/iitg/hss02/virtual-english-and-communication-lab.webm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>
-<div style="margin-top: 20px; " class="lab-list-row-div">
-								<div class="col-md-5">
-									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+HSS03+Anytime/about" class="sidebar-a">
-<span style="font-size: 30px; color:red;">*</span>Virtual Anthropology Lab</a></p>
-									<p class="text-normal-gray-smallest">This lab inlcudes experiments on reconstruction of a handaxe, identification of shape of flakes and identification of finger patterns of different individuals.</p>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+HSS03+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
-								</div>
-								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://textofvideo.nptel.iitm.ac.in/105104131/lec29.pdf" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
-							</div>
+
 
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
@@ -234,7 +219,7 @@ step-by-step' instructions available in each lab to assist the users.</li>
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+MV-IITG+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
 								<div class="col-md-2 lab-list-row-col-2">
-									<a target="_blank" href="http://nptel.ac.in/courses/112103112/" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
+									<a target="_blank" href="http://10.2.57.65:5959/videos/iitg/mv-iitg/MV-IITG-Mod1-lect-1-overview-of-the-course-practical-and-research-trends.webm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
@@ -249,9 +234,9 @@ step-by-step' instructions available in each lab to assist the users.</li>
 								<div class="col-md-2 lab-list-row-col-2">
 									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+VLSI-IITG+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
 								</div>
-								<div class="col-md-2 lab-list-row-col-2">
+								<!--<div class="col-md-2 lab-list-row-col-2">
 									<a target="_blank" href="http://nptel.ac.in/courses/Webcourse-contents/IIT-Bombay/VLSI%20Design/TOC.htm" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
-								</div>
+								</div>-->
 							</div>
 <div style="margin-top: 20px; " class="lab-list-row-div">
 								<div class="col-md-5">
@@ -299,6 +284,23 @@ step-by-step' instructions available in each lab to assist the users.</li>
 								</div>
 								<!--<div class="col-md-2 lab-list-row-col-2">
 									<a href="" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;" /> LECTURE</a>
+								</div>-->
+							</div>
+
+<div style="margin-top: 20px; " class="lab-list-row-div">
+								<div class="col-md-5">
+									<p class="text-h3-darkblue"><a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+HSS03+Anytime/about" class="sidebar-a">
+<span style="font-size: 30px; color:red;">*</span>Virtual Anthropology Lab</a></p>
+									<p class="text-normal-gray-smallest">This lab inlcudes experiments on reconstruction of a handaxe, identification of shape of flakes and identification of finger patterns of different individuals.</p>
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<!--<p class="text-normal-gray-small">IIT KHARAGPUR</p>-->
+								</div>
+								<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://vlabs.ac.in/courses/course-v1:IIT-Guwahati+HSS03+Anytime/about" class="nounderline"> <img src="images/flask.png" style="width: 20px;   vertical-align: text-bottom;"> LAB</a>
+								</div>
+								<!--<div class="col-md-2 lab-list-row-col-2">
+									<a target="_blank" href="http://textofvideo.nptel.iitm.ac.in/105104131/lec29.pdf" class="nounderline"> <img src="images/chat.png" style="width: 20px;   vertical-align: text-bottom;"> LECTURE</a>
 								</div>-->
 							</div>
 
