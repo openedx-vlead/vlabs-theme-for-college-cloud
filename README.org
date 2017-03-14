@@ -40,3 +40,17 @@ openedx.
 
 
 
+#+BEGIN_SRC command
+    cd /edx/app/edxapp/themes/
+    git clone https://github.com/openedx-vlead/vlabs-theme-for-college-cloud.git starter-theme
+    sudo chmod -R 777 * 
+    cd starter-theme
+    cp custom_features/* /usr/share/nginx/html
+    cp templates/* /edx/app/edxapp/edx-platform/lms/templates/
+     
+    sudo -H -u edxapp bash 
+    cd /edx/app/edxapp/edx-platform
+    source ../edxapp_env
+    paver update_assets lms --setting=aws
+
+#+END_SRC 
